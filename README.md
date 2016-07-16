@@ -62,6 +62,7 @@ I suggest using a two-button mouse with a scroll wheel.
 * Can have finer grained control using fill and stroke dialog (suggestion: use HSL, not RGB!)
 * Use color dropper to change color using an existing color.
 * To look super pro, use Colorbrewer colors.
+* To look even pro-er, use gradients.
 
 ## Alignment
 * Control-shift-A, and try options.
