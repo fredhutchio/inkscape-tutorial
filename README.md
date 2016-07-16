@@ -1,6 +1,7 @@
 # Making beautiful scientific graphics using Inkscape
 
 Inkscape is a cross-platform graphical editor for SVG files.
+There is a lot of great Inkscape documentation out there, and the [Basic Tutorial](https://inkscape.org/en/doc/basic/tutorial-basic.html) is a good place to start.
 
 ## A few notes about SVGs
 * SVG is a file format you can open in modern browsers.
@@ -25,6 +26,7 @@ I suggest using a two-button mouse with a scroll wheel.
 * Shift-click (i.e. click while holding down Shift) to add an object to the selection.
 * Click and drag to select objects in a box.
 * Tab selects the next object. Shift-tab selects the previous object.
+<!-- copy-paste; duplicate -->
 
 ## Modifying objects
 * Move your selection by dragging. Control-drag only moves in one direction.
@@ -87,4 +89,5 @@ I suggest using a two-button mouse with a scroll wheel.
 <!--
 ## Advanced techniques:
 * finding something by color
+* Edit > Select Same > Fill Color
 -->
