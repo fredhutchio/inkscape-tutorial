@@ -5,27 +5,29 @@ There is a lot of great Inkscape documentation out there, and the [Basic Tutoria
 
 ## A few notes about SVGs
 * SVG is a file format you can open in modern browsers.
-* It is a vector format, which means you don't lose resolution when you zoom in. This is in contrast to bitmap (a.k.a. pixel) formats such as PNG or JPG.
+* It is a vector format, which means you don't lose resolution when you zoom in, in contrast to bitmap (a.k.a. pixel) formats such as PNG or JPG.
 * It is text-based format.
 * Your plotting program may make SVG. If it doesn't, then perhaps it makes EPS or PDF files, which can be imported by Inkscape.
 
-<!--
 ## Overall layout of an Inkscape session
-* Tools are on the left
-* Top panel depends on what you are doing, it's called the Tool Control Bar
-I suggest using a two-button mouse with a scroll wheel.
--->
+![](images/inkscape-window.png)
+
+You can read more [here](http://en.flossmanuals.net/inkscape/introduction/the-inkscape-interface/), but just remember the location of the *Tool Control Bar*.
+It changes depending on what tool is being used.
+
 
 ## Moving around in your document
 * The magnifying glass enables zooming with a click or a rectangle selection. Shift-click zooms out.
 * View menu has lots of options for zooming. 5 zooms to frame your document.
 * Zoom in and out using Control and scroll wheel.
 
+
 ## Selecting objects
 * Click to select an object.
 * Shift-click (i.e. click while holding down Shift) to add an object to the selection.
 * Click and drag to select objects in a box.
 * Tab selects the next object. Shift-tab selects the previous object.
+
 <!-- copy-paste; duplicate -->
 
 ## Modifying objects
@@ -43,7 +45,7 @@ I suggest using a two-button mouse with a scroll wheel.
 * You can add bitmap images.
 
 ## Making paths
-* To make a simple line, click and drag with left, release, then click right. <!-- Why so complicated? It's so we can make beautiful curves with the same tool. -->
+* To make a simple line, click and drag with left, release, then click right.
 * To make a Bezier curve, click and drag with left, release, then move mouse and click right to finalize line.
 * To make a more complex curve, you can use the pencil tool with simplification.
 * To make an area, bound it with objects and then use the paint dump tool.
