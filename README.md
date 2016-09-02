@@ -16,13 +16,11 @@ Here are some essentials.
 You can read more [here](http://en.flossmanuals.net/inkscape/introduction/the-inkscape-interface/), but just remember the location of the *Tool Control Bar*.
 It changes depending on what tool is being used.
 
-
 ## Moving around in your document
 * The magnifying glass enables zooming with a click or a rectangle selection. Shift-click zooms out.
 * View menu has lots of options for zooming. Pressing `5` zooms to frame your document.
 * Zoom in and out using Control and scroll wheel.
 * Ctrl-arrows move your view of the document around.
-
 
 ## Selecting objects
 * Make sure you are using the "Select and transform objects" tool (on the top)
@@ -31,7 +29,6 @@ It changes depending on what tool is being used.
 * Click and drag to select objects in a box.
 * Esc deselects everything.
 * Tab selects the next object. Shift-tab selects the previous object.
-
 
 ## Modifying objects
 * Copy-paste and duplicate work as you might expect.
@@ -50,8 +47,10 @@ It changes depending on what tool is being used.
 * You can add bitmap images.
 
 ## Making paths
-* To make a simple line, click and drag with left, release, then click right.
-* To make a Bezier curve, click and drag with left, release, then move mouse and click right to finalize line.
+* To make a simple line, click left to set a start point, then click left again to set the end point. You can continue to add segments to your path by left clicking, then click right to end.
+* To make a closed path, just make your last click at the start point.
+* To make a Bezier curve, click and drag with left, release when you have the length right, then move the mouse and click left to finalize line.
+As before, you can continue adding segments to your path until you click right.
 * To make a more complex curve, you can use the pencil tool with simplification.
 * To make an area, bound it with objects and then use the paint dump tool.
 * Tracing a bitmap is a great way to cheat!
