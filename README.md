@@ -1,7 +1,8 @@
 # Making beautiful scientific graphics using Inkscape
 
-Inkscape is a cross-platform graphical editor for SVG files.
+Inkscape is a cross-platform graphical editor for Scalable Vector Graphics (SVG) files.
 There is a lot of great Inkscape documentation out there, and the [Basic Tutorial](https://inkscape.org/en/doc/basic/tutorial-basic.html) is a good place to start.
+Here are some essentials.
 
 ## A few notes about SVGs
 * SVG is a file format you can open in modern browsers.
@@ -18,25 +19,29 @@ It changes depending on what tool is being used.
 
 ## Moving around in your document
 * The magnifying glass enables zooming with a click or a rectangle selection. Shift-click zooms out.
-* View menu has lots of options for zooming. 5 zooms to frame your document.
+* View menu has lots of options for zooming. Pressing `5` zooms to frame your document.
 * Zoom in and out using Control and scroll wheel.
+* Ctrl-arrows move your view of the document around.
 
 
 ## Selecting objects
+* Make sure you are using the "Select and transform objects" tool (on the top)
 * Click to select an object.
 * Shift-click (i.e. click while holding down Shift) to add an object to the selection.
 * Click and drag to select objects in a box.
+* Esc deselects everything.
 * Tab selects the next object. Shift-tab selects the previous object.
 
-<!-- copy-paste; duplicate -->
 
 ## Modifying objects
+* Copy-paste and duplicate work as you might expect.
 * Move your selection by dragging. Control-drag only moves in one direction.
 * Or move your selection using the arrow keys. Alt-arrow moves items a small amount.
 * Stretch using arrows around object. Hold the Control key to keep aspect ratio.
 * Click objects again to be able to rotate and skew them.
 * Objects have an order of what is on top of what, and you can change that using buttons in the Selection Tool Control Bar.
 * There is a button on the right of the Tool Control Bar to determine if stretching an object changes line thickness or not.
+* If you mess something up, you have infinite undo!
 
 ## Shapes
 * Circles: Tool Control Bar can give you partial circles.
