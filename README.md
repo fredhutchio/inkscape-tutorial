@@ -38,7 +38,7 @@ It changes depending on what tool is being used.
 * Click objects again to be able to rotate and skew them.
 * Objects have an order of what is on top of what, and you can change that using buttons in the Selection Tool Control Bar.
 * There is a button on the right of the Tool Control Bar to determine if stretching an object changes line thickness or not.
-* If you mess something up, you have infinite undo!
+* If you mess something up, you have infinite undo (Ctrl-Z)! You can re-do as well (Ctrl-Shift-Z).
 
 ## Shapes
 * Circles: Tool Control Bar can give you partial circles.
@@ -75,6 +75,7 @@ As before, you can continue adding segments to your path until you click right.
 ## Alignment
 * Control-shift-A, and try options.
 * Note the "Relative to" menu!
+* You can also align control nodes for paths.
 * Aligning text is different than lining up objects: use the special text alignment buttons.
 
 ## Groups
