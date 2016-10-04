@@ -1,8 +1,12 @@
 # Making beautiful scientific graphics using Inkscape
 
+
 Inkscape is a cross-platform graphical editor for Scalable Vector Graphics (SVG) files.
 There is a lot of great Inkscape documentation out there, and the [Basic Tutorial](https://inkscape.org/en/doc/basic/tutorial-basic.html) is a good place to start.
-Here are some essentials.
+Here are some essentials, which go along with the following video introduction:
+
+[![Video introduction](http://i.imgur.com/QRcnazm.png)](https://www.youtube.com/watch?v=lenW2Yzk4bY)
+
 
 ## A few notes about SVGs
 * SVG is a file format you can open in modern browsers.
